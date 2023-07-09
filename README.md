@@ -21,7 +21,7 @@ Before you continue, ensure you have [Node.js](https://nodejs.org/download) inst
 **Method I (For developers)**
 
 1. Clone project
-   > git clone https://github.com/dannysofftie/mysql-mongo-etl.git
+   > git clone https://github.com/SecretStar112/ETL_MySQL_MongoDB.git
 2. Change working directory
    > cd mysql-mongo-etl
 3. Install dependencies
